@@ -22,6 +22,6 @@ public class BookConstructor {
         Book2 b = new Book2();
 
         // creating object of class Book, and it will call parameterized constructor
-        Book2 b1 = new Book2("Ankur Warikoo","Do Epic Shit",209);
+//        Book2 b1 = new Book2("Ankur Warikoo","Do Epic Shit",209);
     }
 }
