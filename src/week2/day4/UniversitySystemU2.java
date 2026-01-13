@@ -56,9 +56,8 @@ class Professor {
 
 public class UniversitySystemU2 {
     public static void main(String[] args) {
-
         StudentU2 s1 = new StudentU2("Akhil");
-        StudentU2 s2 = new StudentU2("Riya");
+        StudentU2 s2 = new StudentU2("Priya");
 
         Professor p1 = new Professor("Dr. Sharma");
 
