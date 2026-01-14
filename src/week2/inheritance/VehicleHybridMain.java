@@ -1,4 +1,4 @@
-package week2.day5;
+package week2.inheritance;
 
 class Vehicle {
     int maxSpeed;
