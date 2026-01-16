@@ -1,4 +1,4 @@
-package week2.day3;
+package week2.keywords;
 
 class Patient {
     static String hospitalName = "Apollo Hospital";

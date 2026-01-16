@@ -1,4 +1,4 @@
-package week2.day3;
+package week2.keywords;
 
 class Vehicle {
     static double registrationFee = 1500.0;
